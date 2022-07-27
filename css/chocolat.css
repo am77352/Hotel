@@ -1,0 +1,50 @@
+:4207019197' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>LICENSE_SESSIONS_WARNING = 0
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.577+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='kcsnfy:326:968333812' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>Picked latch-free SCN scheme 2
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.655+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='krsd_init_sdips:2428:1211400554' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>Using LOG_ARCHIVE_DEST_1 parameter default value as USE_DB_RECOVERY_FILE_DEST
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.827+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='ktunfy:2209:3053135360' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>Autotune of undo retention is turned on. 
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.843+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='ktinfy:1611:1526000287' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>IMODE=BR
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.843+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='ktinfy:1619:3929296192' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>ILAT =27
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:13.999+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='kzunfy:2274:2892522327' type='NOTIFICATION' group='startup'
+ level='16' host_id='AMER' host_addr='fe80::ad5f:a916:5c10:1576%11'
+ pid='2728'>
+ <txt>LICENSE_MAX_USERS = 0
+ </txt>
+</msg>
+<msg time='2020-10-03T22:20:14.015+03:00' org_id='oracle' comp_id='rdbms'
+ msg_id='kzanfy:1093:11614962
